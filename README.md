@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Chinedu Okoli 👋</h1>
 
-<!--
-**chinedu-okoli07/chinedu-okoli07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cybersecurity Enthusiast | SOC Analyst Learner | Blue Team Projects</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+
+- 🛡️ Currently learning SOC Operations, Threat Detection, and SIEM
+- 🔍 Working with tools like Wazuh, Suricata, VirusTotal, and Kali Linux
+- 🐍 Building Python cybersecurity projects and automation scripts
+- 🌐 Documenting my cybersecurity journey publicly through blogs and LinkedIn
+- 🚀 Interested in Blue Teaming, Threat Hunting, and Security Monitoring
+
+---
+
+## 👨‍💻 Cybersecurity Projects
+
+### 🐍 Python
+- [Basic Network Sniffer](https://github.com/chinedu-okoli07/CodeAlpha_NetworkSniffer)
+
+### 🛡️ SOC / SIEM Labs
+- Wazuh SIEM Deployment
+- Suricata IDS Integration
+- Threat Hunting Dashboard
+- VirusTotal Threat Intelligence Integration
+
+---
+
+## 🧰 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-black?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/-Wazuh-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Suricata-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📚 Latest Blog Posts
+
+- [Why I'm Documenting My Cybersecurity Journey](https://fortunebest.com.ng/blog/why-im-documenting-my-cybersecurity-journey-one-lab-at-a-time/)
+- [From Networking Fundamentals to Building a SOC](https://fortunebest.com.ng/blog/networking-to-soc/)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/chinedu-okoli
+- 🌐 Blog: https://fortunebest.com.ng
+- 📂 GitHub: https://github.com/chinedu-okoli07
+
+---
+
+## 📈 Current Focus
+
+```bash
+Learning SOC Operations...
+Building Security Projects...
+Improving Threat Detection Skills...
