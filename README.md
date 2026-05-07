@@ -88,7 +88,7 @@ Cybersecurity Enthusiast | SOC Analyst Learner | IT Support & Technical Operatio
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/chinedu-okoli
+- 💼 LinkedIn: www.linkedin.com/in/chinedu-okoli](https://www.linkedin.com/in/chinedu-okoli-0a7347187/
 - 🌐 Blog: https://fortunebest.com.ng
 - 📂 GitHub: https://github.com/chinedu-okoli07
 
