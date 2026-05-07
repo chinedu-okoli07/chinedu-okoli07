@@ -29,13 +29,10 @@
 
 ## 🧰 Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/-Kali_Linux-black?style=for-the-badge&logo=kalilinux" />
-  <img src="https://img.shields.io/badge/-Wazuh-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Suricata-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-SOC%20Analyst-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Linux-Kali-red?style=for-the-badge&logo=linux" />
 </p>
 
 ---
