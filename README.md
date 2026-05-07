@@ -64,7 +64,7 @@ Cybersecurity Enthusiast | SOC Analyst Learner | IT Support & Technical Operatio
   <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-Wireshark-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Networking-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Streamlab-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Streamlabs-black?style=for-the-badge" />
 </p>
 
 ---
