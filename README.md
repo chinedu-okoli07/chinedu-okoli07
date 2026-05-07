@@ -39,7 +39,7 @@ Cybersecurity Enthusiast | SOC Analyst Learner | IT Support & Technical Operatio
 - Linux Administration Practice
 - Network Configuration Exercises
 - Technical Documentation Projects
-- OBS Studio & Stream Technical Support
+- Streamlabs & Stream Technical Support
 - System Monitoring and Diagnostics
 
 ---
@@ -64,7 +64,7 @@ Cybersecurity Enthusiast | SOC Analyst Learner | IT Support & Technical Operatio
   <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-Wireshark-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Networking-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OBS_Studio-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Streamlab-black?style=for-the-badge" />
 </p>
 
 ---
