@@ -1,6 +1,4 @@
-# GitHub Profile README for chinedu-okoli07
 
-````markdown
 <h1 align="center">Hi, I'm Chinedu Okoli 👋</h1>
 
 <h3 align="center">
@@ -133,35 +131,3 @@ Practicing Networking Labs...
 Improving Threat Detection Skills...
 Documenting My Technical Journey...
 ```
-````
-
-## Recommended GitHub Setup
-
-### 📌 Pin These Repositories
-
-1. CodeAlpha_NetworkSniffer
-2. Cisco_Packet_Tracer_Labs
-3. chinedu-okoli07
-4. Wazuh_SOC_Lab *(when ready)*
-
----
-
-## Recommended Repository Descriptions
-
-### CodeAlpha_NetworkSniffer
-
-Python-based network sniffer using Scapy to capture and analyze live network traffic.
-
-### Cisco_Packet_Tracer_Labs
-
-Networking labs and simulations built using Cisco Packet Tracer.
-
-### chinedu-okoli07
-
-Cybersecurity portfolio, SOC learning journey, and technical projects.
-
----
-
-## Recommended GitHub Bio
-
-Aspiring SOC Analyst | Wazuh • Networking • Python • Threat Detection
